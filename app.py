@@ -116,5 +116,5 @@ async def on_ready():
     await schedule_daily_message(11, 59, 55, "Good Night Amin! :)", 1187148206526709802)
 
 if __name__ == '__main__':
-    bot.run("MTE4NzE0ODAzMDIyMzMxOTA1MA.GeDVXB.uSgUxFM97PiDt2vFhVHHKKPqiLmji9wq_VxMDs")
+    bot.run("")
     
